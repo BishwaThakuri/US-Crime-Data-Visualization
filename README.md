@@ -15,19 +15,22 @@ The project uses Dash and Plotly to visualize important aspects of crime data in
 ## Installation
 To install the necessary dependencies, run:
 ```bash
-pip install plotly==5.15.0 dash==2.11.1 dash-bootstrap-components```
+pip install plotly==5.15.0 dash==2.11.1 dash-bootstrap-components
+```
 
 ## Running the Application
 Clone this repository:
 
 ```bash
 git clone https://github.com/BishwaThakuri/US-Crime-Data-Visualization.git
-cd US-Crime-Data-Visualization```
+cd US-Crime-Data-Visualization
+```
 
 Start the Dash server:
 
 ```bash
-python app.py```
+python app.py
+```
  
 ## Dataset
 The dataset used in this project is sourced from the Kaggle US Crime Dataset. It contains comprehensive information about crimes, including dates, statuses, locations, and victim demographics.
