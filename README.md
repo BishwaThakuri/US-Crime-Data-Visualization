@@ -31,7 +31,9 @@ Start the Dash server:
 ```bash
 python app.py
 ```
- 
+### Access the dashboard:
+Navigate to http://127.0.0.1:8050/ to view the visualization.
+
 ## Dataset
 The dataset used in this project is sourced from the Kaggle US Crime Dataset. It contains comprehensive information about crimes, including dates, statuses, locations, and victim demographics.
 
